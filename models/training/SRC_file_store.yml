@@ -1,0 +1,7 @@
+sources:
+  - name: test_DBTSF_SC
+    database: DEMO_DB
+    schema: DBTSF_SC
+    tables:
+      - name: store_2023
+      - name: store_sales_2023
